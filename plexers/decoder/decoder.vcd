@@ -1,0 +1,113 @@
+$date
+	Wed Jul 30 12:52:48 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module decoder_tb $end
+$var wire 1 ! h $end
+$var wire 1 " g $end
+$var wire 1 # f $end
+$var wire 1 $ e $end
+$var wire 1 % d $end
+$var wire 1 & c $end
+$var wire 1 ' b $end
+$var wire 1 ( a $end
+$var reg 1 ) oe $end
+$var reg 3 * sel [2:0] $end
+$scope module uut $end
+$var wire 1 ) oe $end
+$var wire 3 + sel [2:0] $end
+$var wire 1 ! h $end
+$var wire 1 " g $end
+$var wire 1 # f $end
+$var wire 1 $ e $end
+$var wire 1 % d $end
+$var wire 1 & c $end
+$var wire 1 ' b $end
+$var wire 1 ( a $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 +
+b0 *
+1)
+1(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#10
+0(
+1'
+b1 *
+b1 +
+#20
+0'
+1&
+b10 *
+b10 +
+#30
+0&
+1%
+b11 *
+b11 +
+#40
+0%
+1$
+b100 *
+b100 +
+#50
+0$
+1#
+b101 *
+b101 +
+#60
+0#
+1"
+b110 *
+b110 +
+#70
+0"
+1!
+b111 *
+b111 +
+#80
+0!
+0)
+b0 *
+b0 +
+#90
+b1 *
+b1 +
+#100
+b10 *
+b10 +
+#110
+b11 *
+b11 +
+#120
+b100 *
+b100 +
+#130
+b101 *
+b101 +
+#140
+b110 *
+b110 +
+#150
+b111 *
+b111 +
+#160
